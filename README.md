@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 align="center" style="font-family: monospace;text-shadow: 3px 3px 3px gray;">Bem-vindo ao meu GitHub</h1>
+    <h1 align="center" style="font-family: monospace;text-shadow: 3px 3px 3px lightblue;">Bem-vindo ao meu GitHub</h1>
 
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<p align="center" style="font-family: monospace;">Desenvolvedor em aprendizado contínuo, com interesse em programação e robótica.</p>
+<p align="center" style="font-family: monospace;">Sou estudante de Ciência da Computação na FEI, com forte interesse na área de robótica. Possuo afinidade com programação, com conhecimentos em Python, Java, C#, C++, HTML, CSS e JavaScript, além de interesse em programação voltada a bancos de dados. Também sou formado no Curso Técnico em Informática para Internet pela ETEC, o que contribuiu para o desenvolvimento de uma base sólida em tecnologia e desenvolvimento de sistemas.</p>
 
 <br>
 
@@ -51,3 +51,4 @@
 </body>
 
 </html>
+
