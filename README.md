@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<p align="center" style="font-family: monospace;">Sou estudante de Ciência da Computação na FEI, com forte interesse na área de robótica. Possuo afinidade com programação, com conhecimentos em Python, Java, C#, C++, HTML, CSS e JavaScript, além de interesse em programação voltada a bancos de dados. Também sou formado no Curso Técnico em Informática para Internet pela ETEC, o que contribuiu para o desenvolvimento de uma base sólida em tecnologia e desenvolvimento de sistemas.</p>
+<p align="left" style="font-family:  Arial, Helvetica, sans-serif;">Sou estudante de Ciência da Computação na FEI, com forte interesse na área de robótica. Possuo afinidade com programação, com conhecimentos em Python, Java, C#, C++, HTML, CSS e JavaScript, além de interesse em programação voltada a bancos de dados. Também sou formado no Curso Técnico em Informática para Internet pela ETEC, o que contribuiu para o desenvolvimento de uma base sólida em tecnologia e desenvolvimento de sistemas.</p>
 
 <br>
 
@@ -51,4 +51,5 @@
 </body>
 
 </html>
+
 
