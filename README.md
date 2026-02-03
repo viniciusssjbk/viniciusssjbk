@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="mario.gif" height="200" alt="marioBros"  style="border-radius: 10px 10px;"/>
+  <img src="mario.gif" height="300" alt="marioBros"  style="border-radius: 10px 10px;"/>
 </div>
 
 
@@ -51,5 +51,6 @@
 </body>
 
 </html>
+
 
 
