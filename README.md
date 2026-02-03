@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio</title>
 </head>
 <body>
     <h1 align="center" style="font-family: monospace;text-shadow: 3px 3px 3px gray;">Bem-vindo ao meu GitHub</h1>
@@ -50,4 +49,5 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
 </body>
+
 </html>
