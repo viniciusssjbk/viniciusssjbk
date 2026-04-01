@@ -4,6 +4,7 @@
   </h1>
 
   <a href="https://www.linkedin.com/in/vinicius-santos-4654a2320/">
+    <p>Acesse meu Linkedin:</p>
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"/>
   </a>
 </div>
@@ -18,7 +19,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de **Ciência da Computação na FEI**, com um forte interesse e foco na área de **Robótica**. Minha trajetória começou com o curso técnico em Informática para Internet pela **ETEC**, onde construí uma base sólida em desenvolvimento web e desenvolvimento de sistemas.
+Meu nome é Vinicius Santos de Oliveira, sou estudante de **Ciência da Computação na FEI**, com um forte interesse e foco na área de **Robótica**. Minha trajetória começou com o curso técnico em Informática para Internet pela **ETEC**, onde construí uma base sólida em desenvolvimento web e desenvolvimento de sistemas.
 
 * 🔭 Atualmente focado em aprofundar conhecimentos em hardware e software para robótica.
 * 📊 Grande interesse em arquitetura de **Bancos de Dados** e **Back-End**.
