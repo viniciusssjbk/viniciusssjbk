@@ -35,6 +35,3 @@ Sou estudante de **Ciência da Computação na FEI**, com um forte interesse e f
 </div>
 
 
-<div align="center">
-  <p style="font-family: monospace;">"The only way to do great work is to love what you do."</p>
-</div>
