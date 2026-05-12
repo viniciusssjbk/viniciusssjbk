@@ -50,13 +50,14 @@
     </td>
   </tr>
 </table>
-<img src="url('mario.gif')" height=100 width=100>
+<img src="mario.gif" height="100" width="100">
 
 ### Estatísticas de Transmissão
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusssjbk&show_icons=true&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusssjbk&layout=compact&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
 </div>
 
 ---
