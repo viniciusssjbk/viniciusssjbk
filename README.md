@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="300">
       <b>Back-End e Web</b><br>
-      <img src="https://skillicons.dev/icons?i=cs,js,mysql,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=cs,js,bootstrap,html" />
     </td>
   </tr>
   <tr>
@@ -48,21 +48,16 @@
       <b>Ferramentas</b><br>
       <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     </td>
+     <td align="center" width="300">
+      <b>Banco de dados</b><br>
+      <img src="https://skillicons.dev/icons?i=mysql,potresql,mongodb" />
+    </td>
   </tr>
 </table>
 <img src="mario.gif" height="100" width="100">
 
-### Estatísticas de Transmissão
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusssjbk&show_icons=true&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusssjbk&layout=compact&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/star-expedition.png" width="40" />
+  <img src="https://img.shields.io/github/stars/viniciusssjbk?style=for-the-badge">
   <p>Entre no meu <a href="https://viniciusssjbk.github.io/">site</a> para descobrir mais sobre mim.</p>
 </div>
