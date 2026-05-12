@@ -27,8 +27,8 @@
 
 ### Sobre Mim
 
-- ** Atualmente:** Participante do time **ROBOFEI humanoide** e realizando projetos escolares e pessoais.
-- ** Formação:** Tecnico em Informática para Internet pela **ETEC Lauro Gomes** e cursando Ciências da Computação na **FEI**.
+- **Atualmente:** Participante do time **ROBOFEI humanoide** e realizando projetos escolares e pessoais.
+- **Formação:** Tecnico em Informática para Internet pela **ETEC Lauro Gomes** e cursando Ciências da Computação na **FEI**.
 
 ### Tecnologias
 
@@ -36,26 +36,21 @@
   <tr>
     <td align="center" width="300">
       <b>Sistemas e Robótica</b><br>
-      <img src="https://skillicons.dev/icons?i=cpp,python,linux,arduino,ros" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,linux,arduino" />
     </td>
     <td align="center" width="300">
       <b>Back-End e Web</b><br>
-      <img src="https://skillicons.dev/icons?i=java,cs,js,mysql,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=cs,js,mysql,bootstrap" />
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
       <b>Ferramentas</b><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
-    </td>
-    <td align="center" width="300">
-      <b>Exploração Visual</b><br>
-      <img src="https://skillicons.dev/icons?i=threejs,html,css" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     </td>
   </tr>
 </table>
-
----
+<img src="url('mario.gif')" height=100 width=100>
 
 ### Estatísticas de Transmissão
 
