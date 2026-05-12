@@ -1,38 +1,72 @@
 <div align="center">
-  <h1 align="center" style="font-family: monospace; text-shadow: 3px 3px 3px lightblue;">
-    Seja bem vindo! 👋
-  </h1>
+  
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077b6&height=200&section=header&text=Vinicius%20Santos&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Robotics%20Enthusiast&descSize=20&descAlignY=60&fontColor=ffffff" width="100%" />
 
-  <a href="https://www.linkedin.com/in/vinicius-santos-4654a2320/">
-    <p>Acesse meu Linkedin:</p>
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"/>
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Orbitando%20o%20Código-0077b6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Humanoid%20Robotics-white?style=for-the-badge&logo=ai&logoColor=0077b6" />
+  </p>
+
+  ---
+
+  
+  <p align="center">
+    Bem-vindo ao meu centro de comando. Sou um desenvolvedor focado em unir a precisão da <b>robótica</b> 
+    com a fluidez de sistemas modernos. Atualmente, curso Ciência da Computação na <b>FEI</b> 
+    e faço parte da equipe <b>RoboFEI Humanoide</b>.
+  </p>
+
+  <div>
+    <a href="https://www.linkedin.com/in/vinicius-santos-4654a2320/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+  </div>
 </div>
 
 <br>
 
+### Sobre Mim
+
+- ** Atualmente:** Participante do time **ROBOFEI humanoide** e realizando projetos escolares e pessoais.
+- ** Formação:** Tecnico em Informática para Internet pela **ETEC Lauro Gomes** e cursando Ciências da Computação na **FEI**.
+
+### Tecnologias
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <b>Sistemas e Robótica</b><br>
+      <img src="https://skillicons.dev/icons?i=cpp,python,linux,arduino,ros" />
+    </td>
+    <td align="center" width="300">
+      <b>Back-End e Web</b><br>
+      <img src="https://skillicons.dev/icons?i=java,cs,js,mysql,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <b>Ferramentas</b><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
+    </td>
+    <td align="center" width="300">
+      <b>Exploração Visual</b><br>
+      <img src="https://skillicons.dev/icons?i=threejs,html,css" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Estatísticas de Transmissão
+
 <div align="center">
-  <img src="mario.gif" height="250" alt="marioBros" style="border-radius: 10px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=transparent&title_color=0077b6&text_color=000000&icon_color=0077b6&border_color=0077b6" />
 </div>
 
 ---
 
-### 🚀 Sobre Mim
-
-Meu nome é Vinicius Santos de Oliveira, sou estudante de **Ciência da Computação na FEI**, com um forte interesse e foco na área de **Robótica**. Minha trajetória começou com o curso técnico em Informática para Internet pela **ETEC**, onde construí uma base sólida em desenvolvimento web e desenvolvimento de sistemas.
-
-* 🔭 Atualmente focado em aprofundar conhecimentos em hardware e software para robótica.
-* 📊 Grande interesse em arquitetura de **Bancos de Dados** e **Back-End**.
-* ⚡ Adoro resolver problemas complexos e aprender novas tecnologias.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js" height="50" alt="Linguagens" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,linux" height="50" alt="Web e Infra" />
+  <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/star-expedition.png" width="40" />
+  <p>Entre no meu <a href="https://viniciusssjbk.github.io/">site</a> para descobrir mais sobre mim.</p>
 </div>
-
-
