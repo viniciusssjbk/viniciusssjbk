@@ -50,14 +50,16 @@
     </td>
      <td align="center" width="300">
       <b>Banco de dados</b><br>
-      <img src="https://skillicons.dev/icons?i=mysql,potresql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
     </td>
   </tr>
 </table>
-<img src="mario.gif" height="100" width="100">
+<div align="center">
+  <img src="mario.gif" height="400" width="400">
+</div>
 
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/viniciusssjbk?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STAR-EXPEDITION-gold?style=for-the-badge&logo=rocket">
   <p>Entre no meu <a href="https://viniciusssjbk.github.io/">site</a> para descobrir mais sobre mim.</p>
 </div>
