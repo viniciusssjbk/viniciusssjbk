@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=302&color=0077b6&text=Vinicius%20S.%20de%20Oliveira&descSize=20&descAlignY=60&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=302&color=0077b6&text=Vinicius%20S.%20de%20Oliveira&descSize=20&descAlignY=60&fontColor=ffffff" width="100%"  style="pointer-events: none;"/>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Orbitando%20o%20Código-0077b6?style=for-the-badge&logoColor=white" />
