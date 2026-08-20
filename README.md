@@ -1,10 +1,13 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=302&color=0077b6&text=Vinicius%20S.%20de%20Oliveira&descSize=20&descAlignY=60&fontColor=ffffff" width="100%"  style="pointer-events: none;"/>
+  <!-- Banner Principal com Link Vazio -->
+  <a href="#top">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=302&color=0077b6&text=Vinicius%20S.%20de%20Oliveira&descSize=20&descAlignY=60&fontColor=ffffff" width="100%"/>
+  </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Orbitando%20o%20Código-0077b6?style=for-the-badge&logoColor=white" style="pointer-events: none;" />
-    <img src="https://img.shields.io/badge/Focus-Humanoid%20Robotics-white?style=for-the-badge&logo=ai&logoColor=0077b6" style="pointer-events: none;"/>
+    <a href="#top"><img src="https://img.shields.io/badge/Status-Orbitando%20o%20Código-0077b6?style=for-the-badge&logoColor=white" /></a>
+    <a href="#top"><img src="https://img.shields.io/badge/Focus-Humanoid%20Robotics-white?style=for-the-badge&logo=ai&logoColor=0077b6" /></a>
   </p>
 
   ---
