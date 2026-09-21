@@ -1,18 +1,24 @@
 <div align="center">
 
-# Vinicius S. de Oliveira
-
-**Estudante de Ciência da Computação | Desenvolvimento de Software | Robótica**
-
 <a href="https://viniciusssjbk.github.io/">
-  <img src="https://img.shields.io/badge/Portfólio-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=Vinicius%20S.%20de%20Oliveira&fontSize=38&fontColor=E1AD01&animation=fadeIn&fontAlignY=45" width="100%"/>
 </a>
-<a href="https://www.linkedin.com/in/vinicius-santos-4654a2320/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/viniciusssjbk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+<p>
+  <strong>Estudante de Ciência da Computação | Desenvolvimento de Software | Robótica</strong>
+</p>
+
+<p>
+  <a href="https://viniciusssjbk.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-E1AD01?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
+  </a>
+  <a href="https://github.com/viniciusssjbk">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-santos-4654a2320/">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+  </a>
+</p>
 
 </div>
 
@@ -62,12 +68,10 @@ Aplicação web desenvolvida para apresentar conceitos relacionados à **robóti
 
 Projeto desenvolvido em C++ utilizando **SFML**, com integração entre software, comunicação serial e controle de servomotores.
 
----
-
 ## Formação
 
 **Centro Universitário FEI**
-Ciência da Computação - em andamento
+Ciência da Computação — em andamento
 
 **ETEC Lauro Gomes**
 Técnico em Informática para Internet
@@ -76,10 +80,14 @@ Técnico em Informática para Internet
 
 <div align="center">
 
-### Portfólio
+## Portfólio
 
 <a href="https://viniciusssjbk.github.io/">
-  <img src="https://img.shields.io/badge/Acessar%20meu%20portfólio-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Acessar%20meu%20portfólio-E1AD01?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117"/>
 
 </div>
