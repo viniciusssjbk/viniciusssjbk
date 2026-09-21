@@ -1,68 +1,85 @@
 <div align="center">
-  
-  <!-- Banner Principal com Link Vazio -->
-  <a href="#top">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=302&color=0077b6&text=Vinicius%20S.%20de%20Oliveira&descSize=20&descAlignY=60&fontColor=ffffff" width="100%"/>
-  </a>
 
-  <p align="center">
-    <a href="#top"><img src="https://img.shields.io/badge/Status-Orbitando%20o%20Código-0077b6?style=for-the-badge&logoColor=white" /></a>
-    <a href="#top"><img src="https://img.shields.io/badge/Focus-Humanoid%20Robotics-white?style=for-the-badge&logo=ai&logoColor=0077b6" /></a>
-  </p>
+# Vinicius S. de Oliveira
 
-  ---
+**Estudante de Ciência da Computação | Desenvolvimento de Software | Robótica**
 
-  
-  <p align="center">
-    Bem-vindo ao meu centro de comando. Sou um desenvolvedor focado em unir a precisão da <b>robótica</b> 
-    com a fluidez de sistemas modernos. Atualmente, curso Ciência da Computação na <b>FEI</b> 
-    e faço parte da equipe <b>RoboFEI Humanoide</b>.
-  </p>
+<a href="https://viniciusssjbk.github.io/">
+  <img src="https://img.shields.io/badge/Portfólio-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vinicius-santos-4654a2320/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/viniciusssjbk">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <div>
-    <a href="https://www.linkedin.com/in/vinicius-santos-4654a2320/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-  </div>
 </div>
 
-<br>
+---
 
-### Sobre Mim
+## Sobre mim
 
-- **Atualmente:** Participante do time **ROBOFEI humanoide** e realizando projetos escolares e pessoais.
-- **Formação:** Tecnico em Informática para Internet pela **ETEC Lauro Gomes** e cursando Ciências da Computação na **FEI**.
+Sou estudante de **Ciência da Computação na FEI** e formado como **Técnico em Informática para Internet pela ETEC Lauro Gomes**.
 
-### Tecnologias
+Atualmente, faço parte do **RoboFEI Humanoide**, trabalhando com desenvolvimento e manutenção de software para robôs humanoides.
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <b>Sistemas e Robótica</b><br>
-      <img src="https://skillicons.dev/icons?i=cpp,python,linux,arduino" />
-    </td>
-    <td align="center" width="300">
-      <b>Back-End e Web</b><br>
-      <img src="https://skillicons.dev/icons?i=cs,js,bootstrap,html" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <b>Ferramentas</b><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-    </td>
-     <td align="center" width="300">
-      <b>Banco de dados</b><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-    </td>
-  </tr>
-</table>
+Também desenvolvo projetos acadêmicos e pessoais envolvendo **desenvolvimento de software, robótica, sistemas embarcados e aplicações web**.
+
+## Tecnologias
+
 <div align="center">
-  <img src="mario.gif" height="400" width="400">
+
+### Programação
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,php" />
+
+### Web e Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,postgres,mongodb" />
+
+### Robótica e Sistemas
+
+<img src="https://skillicons.dev/icons?i=linux,arduino,ros,git,github,vscode" />
+
 </div>
 
+## Projetos
+
+### RoboFEI Humanoide
+
+Atuação no desenvolvimento do software utilizado nos robôs humanoides da equipe **RoboFEI**, com foco em controle e comportamento do robô.
+
+### Walking Analyzer
+
+Projeto voltado à análise e ajuste de parâmetros relacionados ao movimento de caminhada de robôs humanoides, desenvolvido a partir da experiência com o RoboFEI.
+
+### Robo Humanoide Web
+
+Aplicação web desenvolvida para apresentar conceitos relacionados à **robótica humanoide**, utilizando React e animações para tornar a apresentação mais interativa.
+
+### Auto Telescópio
+
+Projeto desenvolvido em C++ utilizando **SFML**, com integração entre software, comunicação serial e controle de servomotores.
+
+---
+
+## Formação
+
+**Centro Universitário FEI**
+Ciência da Computação - em andamento
+
+**ETEC Lauro Gomes**
+Técnico em Informática para Internet
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STAR-EXPEDITION-gold?style=for-the-badge&logo=rocket">
-  <p>Entre no meu <a href="https://viniciusssjbk.github.io/">site</a> para descobrir mais sobre mim.</p>
+
+### Portfólio
+
+<a href="https://viniciusssjbk.github.io/">
+  <img src="https://img.shields.io/badge/Acessar%20meu%20portfólio-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 </div>
