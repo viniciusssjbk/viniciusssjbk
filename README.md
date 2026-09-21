@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://viniciusssjbk.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=Vinicius%20S.%20de%20Oliveira&fontSize=38&fontColor=E1AD01&animation=fadeIn&fontAlignY=45" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=Vinicius%20Santos%20de%20Oliveira&fontSize=38&fontColor=E1AD01&animation=fadeIn&fontAlignY=45" width="100%"/>
 </a>
 
 <p>
