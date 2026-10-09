@@ -72,7 +72,6 @@ Atualmente, faço parte do **RoboFEI Humanoide**, onde tenho contato com desenvo
 
 <div align="center">
 
-*O conhecimento começa quando uma resposta dá origem a uma nova pergunta.*
 
 <a href="https://viniciusssjbk.github.io/">
   <img src="https://img.shields.io/badge/EXPLORAR%20MEU%20PORTFÓLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar meu portfólio" />
