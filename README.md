@@ -33,46 +33,7 @@ Minha curiosidade está em compreender como sistemas complexos funcionam — des
 
 Atualmente, faço parte do **RoboFEI Humanoide**, onde tenho contato com desenvolvimento e manutenção de software para robótica. Essa experiência também alimenta meu interesse por análise de movimento, controle, simulação e investigação de problemas por meio de experimentos.
 
-Vejo a programação como mais do que uma ferramenta para criar aplicações: ela também permite **formular hipóteses, construir modelos, analisar resultados e investigar perguntas ainda sem respostas claras**.
-
-## `02 — Perguntas que me movem`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Sistemas inteligentes
-
-Como representar um problema do mundo real por meio de modelos computacionais e utilizar esses modelos para compreender ou prever comportamentos?
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Movimento e robótica
-
-Como a matemática, os dados dos sensores e os algoritmos podem ajudar a compreender o movimento e o equilíbrio de robôs humanoides?
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Modelagem e experimentação
-
-Como visualizar variáveis, testar parâmetros e comparar resultados para compreender melhor um sistema?
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 Ciência e exploração
-
-Como a computação pode ampliar nossa capacidade de observar, estudar e interagir com o mundo físico e o universo?
-
-</td>
-</tr>
-</table>
-
-## `03 — Ferramentas de investigação`
+## `02 — Ferramentas de investigação`
 
 <div align="center">
 
@@ -90,11 +51,11 @@ Como a computação pode ampliar nossa capacidade de observar, estudar e interag
 
 <br />
 
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-111827?style=flat-square&logo=cisco&logoColor=60A5FA" alt="Cisco Packet Tracer" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-111827?style=flat-square&amp;logo=cisco&amp;logoColor=60A5FA"  alt="Cisco Packet Tracer"/>
 
 </div>
 
-## `04 — Atividade no GitHub`
+## `03 — Atividade no GitHub`
 
 <div align="center">
 
