@@ -71,69 +71,7 @@ Como a computação pode ampliar nossa capacidade de observar, estudar e interag
 </tr>
 </table>
 
-## `03 — Caderno de exploração`
-
-Projetos que uso para estudar ideias, experimentar abordagens e transformar curiosidade em investigações práticas.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📊 Walking Analyzer</h3>
-
-**Investigando o movimento humanoide**
-
-Ferramenta em Python para visualizar e analisar trajetórias e grandezas do movimento, como posição, velocidade, aceleração e jerk.
-
-O projeto explora como parâmetros da caminhada podem ser estudados ao longo do tempo, aproximando a programação da análise matemática do movimento.
-
-<br />
-
-<a href="https://github.com/viniciusssjbk/walking-analyzer">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver Walking Analyzer" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🦾 Robo Humanoide Web</h3>
-
-**Tornando conceitos visíveis**
-
-Aplicação interativa sobre robótica humanoide, desenvolvida com React e anime.js.
-
-Utiliza recursos visuais e animações para apresentar conceitos de robótica de maneira dinâmica e acessível.
-
-<br />
-
-<a href="https://github.com/viniciusssjbk/Robo_humanoide_webe">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver Robo Humanoide Web" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<h3>🔭 Auto Telescópio</h3>
-
-**Computação a serviço da observação astronômica**
-
-Projeto em C++ com SFML que explora o controle de um telescópio por meio de comunicação serial com Arduino e acionamento de servomotores.
-
-Uma aproximação prática entre software, sistemas físicos e meu interesse pela astronomia.
-
-<br />
-
-<a href="https://github.com/viniciusssjbk/Auto_telescopio">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver Auto Telescópio" />
-</a>
-
-</td>
-</tr>
-</table>
-
-## `04 — Ferramentas de investigação`
+## `03 — Ferramentas de investigação`
 
 <div align="center">
 
@@ -155,7 +93,7 @@ Uma aproximação prática entre software, sistemas físicos e meu interesse pel
 
 </div>
 
-## `05 — Atividade no GitHub`
+## `04 — Atividade no GitHub`
 
 <div align="center">
 
