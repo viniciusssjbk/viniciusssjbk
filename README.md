@@ -7,7 +7,7 @@
 ### COMPUTER SCIENCE · ROBOTICS · SCIENTIFIC EXPLORATION
 
 *A imaginação é mais importante que o conhecimento. O conhecimento é limitado, enquanto a imaginação abraça o mundo inteiro.*
--Albert Einstein
+<br>-Albert Einstein
 
 <p>
   <a href="https://viniciusssjbk.github.io/">
