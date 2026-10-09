@@ -1,12 +1,13 @@
 <div align="center">
 
 <a href="https://viniciusssjbk.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,100:4C1D95&text=VINICIUS%20SANTOS&fontSize=48&fontColor=EDE9FE&animation=fadeIn&fontAlignY=38&desc=EXPLORANDO%20O%20DESCONHECIDO&descSize=17&descColor=60A5FA&descAlignY=58" width="100%" alt="Vinicius Santos — Explorando o desconhecido" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,100:4C1D95&text=VINICIUS%20SANTOS%20DE%20OLIVEIRA&fontSize=48&fontColor=EDE9FE&animation=fadeIn&fontAlignY=38&desc=EXPLORANDO%20O%20DESCONHECIDO&descSize=17&descColor=60A5FA&descAlignY=58" width="100%" alt="Vinicius Santos — Explorando o desconhecido" />
 </a>
 
 ### COMPUTER SCIENCE · ROBOTICS · SCIENTIFIC EXPLORATION
 
-*Questionar. Modelar. Experimentar. Compreender.*
+*A imaginação é mais importante que o conhecimento. O conhecimento é limitado, enquanto a imaginação abraça o mundo inteiro.*
+-Albert Einstein
 
 <p>
   <a href="https://viniciusssjbk.github.io/">
