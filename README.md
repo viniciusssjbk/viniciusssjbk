@@ -39,7 +39,7 @@ Atualmente, faço parte do **RoboFEI Humanoide**, onde tenho contato com desenvo
 
 **Programação**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,php&theme=dark" alt="Python, C++, C Sharp, Java, JavaScript e PHP" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,php&theme=dark" alt="Python, C++, Java, JavaScript e PHP" />
 
 **Web e dados**
 
