@@ -60,9 +60,6 @@ Atualmente, faço parte do **RoboFEI Humanoide**, onde tenho contato com desenvo
 <div align="center">
 
 <a href="https://github.com/viniciusssjbk">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusssjbk&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=60A5FA&text_color=D1D5DB" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/viniciusssjbk">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusssjbk&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=D1D5DB" alt="Linguagens mais usadas" />
 </a>
 
